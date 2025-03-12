@@ -14,7 +14,7 @@ The YOLO model is an object detection algorithm that predicts bounding boxes and
 - **Dataset**: coco8 (a subset of the COCO dataset for object detection tasks).
 - **Task**: Detects objects in images (e.g., cats, dogs, etc.) and predicts their bounding boxes.
 - **Training**: Trained using PyTorch and fine-tuned on the coco8 dataset.
-- **Inference**: Perform object detection on test images (cat_test.jpg or dog_test.jpg).
+- **Inference**: Perform object detection on test images.
 
 ---
 
