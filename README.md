@@ -1,5 +1,5 @@
 
-# YOLO Object Detection
+# Object Detection
 
 This repository contains a YOLO (You Only Look Once) model for object detection. The model is trained using the **coco8 dataset** and performs object detection on images, classifying objects into predefined categories.
 
